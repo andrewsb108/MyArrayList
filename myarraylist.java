@@ -8,7 +8,7 @@ import java.util.stream.Stream;
  * based on an array and is simplified version of {@link java.util.ArrayList}.
  */
 public static void main(String[]args){
-
+    
         }
 public class ArrayList<T> implements List<T> {
     private static final int DEFAULT_CAPACITY = 5;
